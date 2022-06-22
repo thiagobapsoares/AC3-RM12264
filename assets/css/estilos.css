@@ -1,0 +1,24 @@
+.atividades{
+    background-color: #b7d5e5;
+}
+
+.alterar{
+    background-color: #f3da83;
+}
+
+.entrar{
+    background-color: #d1f2eb;
+}
+
+input,i,select{
+    margin-bottom: 10px;
+}
+textarea{
+    resize: none;
+}
+
+.logoff{
+    position: fixed;
+    right: 0;
+    cursor: pointer;
+}
